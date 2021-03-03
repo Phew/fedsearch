@@ -1,5 +1,5 @@
 ## Details
-So basically what this does is send a POST request to the fedsearcg lookup, search for the text strings that it outputs.
+So basically what this does is send a POST request to the fedsearch lookup, search for the text strings that it outputs.
 
 ## Note
 You will need a fedsearch account for this
